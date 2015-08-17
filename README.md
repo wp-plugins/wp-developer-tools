@@ -1,4 +1,6 @@
-=== WP-Developer-Tools ===
+# WP-Developer-Tools 
+The official development branch for the wordpress plugin located at https://wordpress.org/plugins/wp-developer-tools
+
 Contributors: phkcorp2005
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9674139
 Tags: php quick profiler, wordpress developer tools
@@ -8,7 +10,7 @@ Stable tag: 1.0.1
 
 A needed plugin to help developers optimize their installation of wordpress. plugins and themes.
 
-== Description ==
+# Description 
 
 A needed plugin to help developers optimize their installation of wordpress. plugins and themes.
 This plugin is an ongoing effort to incorporate tools to help the developer. 
@@ -26,7 +28,7 @@ Using thie WP-Developer-Tools PHP Quick Profiler, you will be able to see, in re
 
 An added feature, this plugin is designed to be safe for production as the WP-Developer-Tools PHP Quick Profiler is ONLY active when the Administrator is logged in and the session active. Once the Administrator losgs out, the WP-Developer-Tools PHP Quick Profiler will automatically turn off and disable.
 
-== Installation ==
+# Installation 
 
 To instal this plugin, follow these steps:
 
@@ -35,24 +37,24 @@ To instal this plugin, follow these steps:
 3. Activate the plugin through the 'Plugins' menu in WordPress
 4. You are now ready to use the plugin. See the Admin page from Settings|WP Developer Tools.
 
-== Credits ==
+# Credits 
 
 We make honorable mention to anyone who helps make this plugin better!
 
-== Contact ==
+# Contact 
 
 Support is provided at https://github.com/patrickingle/wp-developer-tools/issues. You will require a free account on github.com
 
 Please contact phkcorp2005@gmail.com or visit the above forum with questions, comments, or requests.
 
-== Frequently Asked Questions ==
+# Frequently Asked Questions 
 
 Please do not be afraid of asking questions?<br>
 
 (There are no stupid or dumb questions!)
 
 
-== Changelog ==
+# Changelog 
 = 1.0.1 =
 * Updates for WP 4.3
 
